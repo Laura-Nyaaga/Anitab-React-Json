@@ -1,0 +1,13 @@
+.users-div{
+    margin-top: 1.14%;
+    margin-left: 3%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    gap: 40px;
+    background-color:white;
+    width: 60%;
+    padding: 10px;
+}
